@@ -67,5 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Multiplayer_real.slnx"
+    "dotnet.defaultSolution": "Multiplayer_real.slnx",
+    "discord.enabled": true
 }
